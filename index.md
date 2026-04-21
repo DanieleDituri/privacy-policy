@@ -16,7 +16,7 @@ Le immagini sono soggette alla [Privacy Policy di Cloudinary](https://cloudinary
 
 ## Eliminazione dei dati
 Per richiedere la cancellazione del tuo account e di tutti i dati associati,
-invia una email a: tuaemail@gmail.com con oggetto "Richiesta eliminazione account".
+invia una email a: dituri.dev@gmail.com con oggetto "Richiesta eliminazione account".
 I dati verranno eliminati entro 30 giorni dalla richiesta.
 
 ## Contatti
